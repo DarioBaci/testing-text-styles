@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    
+<head>
+    <title>crypto value excercise</title>
+        <style>
+            .h3-title{
+                font-size: 35px;
+                font-family: arial;
+                margin-bottom: 0px;
+                padding-bottom: 0px;
+
+            }
+
+            .span-usd{
+                padding-top: 0px;
+                font-size: 17px;
+                font-family: arial;
+                color: rgb(168, 168, 168);
+                margin-left: 5px;
+                margin-top: 0px;
+            }
+
+            .percentage-text{
+                font-family: arial;
+                color: rgb(19, 180, 19);
+
+            }
+
+            .time-text{
+                font-family: arial;
+                color: rgb(158, 154, 154);
+
+            }
+            
+            .negative-text{
+                font-family: arial;
+                color: red;
+
+            }
+        </style>
+</head>
+
+<body>
+    <h3 class="h3-title">1,049.61<span class="span-usd"> USD</span></h3>
+    <p class="percentage-text">+18.05 (1.75%) today</p>
+    <p><span class="time-text"> After hours 1,048.00</span> <span class="negative-text">-1.61 (0.15%)</span></p>
+</body>
+
+</html>
