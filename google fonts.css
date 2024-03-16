@@ -1,0 +1,21 @@
+.title-text{
+    font-family:montserrat;
+    font-size: 30px;
+    font-weight:bold;
+    text-align: center;
+}
+
+.text-part1{
+    font-family:montserrat;
+    text-align: center;
+}
+
+.text-part2{
+    font-family:montserrat;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.align-center{
+    text-align: center;
+}
